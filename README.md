@@ -10,5 +10,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=🔥%20WSELAMAT%DATANG20%20🔥&fontAlign=50&fontSize=50&color=0:ff00ff,100:00ffff&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=🔥%20SELAMAT20%DATANG:)%20🔥&fontAlign=50&fontSize=50&color=0:ff00ff,100:00ffff&animation=twinkling&fontColor=ffffff"/>
 </p>
