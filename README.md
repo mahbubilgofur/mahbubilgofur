@@ -1,7 +1,7 @@
 <!-- ANIMASI BERGERAK README GAMING -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=🚀+WELCOME+TO+MY+CYBER+REALM;🔥+GAMING+%7C+DEV+%7C+FUTURE;⚡+NEXT+LEVEL+ENERGY" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=🚀+✨"Selamat+datang+diruang+kreati+yang+membawa+ide+jadi+nyata;🔥+GAMING+%7C+DEV+%7C+FUTURE;⚡+NEXT+LEVEL+ENERGY" />
 </h1>
 
 ---
