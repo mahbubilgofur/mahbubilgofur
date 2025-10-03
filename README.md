@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=🚀+✨KAMI+HADIR+DENGAN+INOVASI;🔥+DESAIN+MODERN;⚡+DAN+SOLUSI+TANPA+BATAS;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=+🚀KAMI+HADIR+DENGAN+INOVASI;🔥+DESAIN+MODERN;⚡+DAN+SOLUSI+TANPA+BATAS;" />
 </h1>
 
 
